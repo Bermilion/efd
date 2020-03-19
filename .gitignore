@@ -1,0 +1,20 @@
+/bower_components
+/npm-debug.log
+/node_modules
+.env
+.idea/
+
+### Sass template
+.sass-cache/
+*.css.map
+
+### Windows template
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
